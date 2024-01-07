@@ -268,7 +268,6 @@ const opciones = fechas
         </Select>
       )}
          <Flex gap="small" wrap="wrap">
-
          <Tooltip title="Click para descargar el grafo">
          <Button type="primary" shape="circle" icon={<DownloadOutlined />} className='download' onClick={descargarImagen} />
            
